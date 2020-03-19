@@ -8,6 +8,6 @@ tweepy_credentials.py stores 4 token keys of API account, you should use your ow
 
 DataAnalysis.ipynb is used to clean and labeling data.
 
-tweets.json is the sample data that can be used in DataAnalysis.ipynb
+sample.json is the sample data that can be used in DataAnalysis.ipynb
 
-The Result file stores the labeling result, it includes six csv file, each file stores data of different class.
+The Result file stores the labeling result, it includes six csv files, each file stores data of different class.
